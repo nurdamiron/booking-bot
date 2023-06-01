@@ -14,7 +14,6 @@ This project demonstrates the creation of a Telegram bot or website using Seleni
 ## Setup
 
 # 1. Clone the repository:
-git clone https://github.com/your-username/your-repo.git
 
 # 2. Install the required Python dependencies:
 pip install -r requirements.txt
